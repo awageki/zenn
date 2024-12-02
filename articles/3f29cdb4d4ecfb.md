@@ -10,7 +10,7 @@ published: false
 
 ## はじめに
 
-同じチームの同僚が、[PLEX Advent Calendar 2024](https://qiita.com/advent-calendar/2024/plex) の 1 日目に「[【DB クライアントツール論争】それでも私は DBeaver を使う](https://product.plex.co.jp/entry/dbeaver)」という記事を書いてくれました 🙏
+同じチームの同僚が、[PLEX Advent Calendar 2024](https://qiita.com/advent-calendar/2024/plex) の 1 日目に「[【DB クライアントツール論争】それでも俺は DBeaver を使う](https://product.plex.co.jp/entry/dbeaver)」という記事を書いてくれました 🙏
 記事では DBeaver という DB クライアントツールが紹介されており、私も布教されましたが元々使っていて馴染みのあった DataGrip を今も使い続けています。
 個人的には DataGrip もおすすめなので、普段私が使っている機能を中心に紹介しつつ私が DataGrip を使い続ける理由をお伝えできたらと思います！
 
