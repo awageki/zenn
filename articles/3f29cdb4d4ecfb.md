@@ -26,7 +26,7 @@ DataGrip は、PostgreSQL や MySQL、Oracle など複数のデータベース�
 
 ## よく使うショートカット
 
-業務で JetBrains 社が提供している Ruby on Rails 用の IDE: [RubyMine](https://www.jetbrains.com/ja-jp/ruby/) を使っていることもあり、ショートカットが共通しているのもメリットの一つだと感じでいます。
+業務で JetBrains 社が提供している Ruby on Rails 用の IDE: [RubyMine](https://www.jetbrains.com/ja-jp/ruby/) を使っていることもあり、ショートカットが共通しているのもメリットの一つだと感じています。
 それも含め、よく使うショートカットを紹介します。
 
 ### 検索まわり
